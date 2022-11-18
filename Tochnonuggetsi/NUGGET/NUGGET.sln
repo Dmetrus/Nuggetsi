@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUGGET", "NUGGET.csproj", "{F9704D0F-7C1F-4A2D-A784-3C180321CD51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotekaSamolet", "..\BibliotekaSamolet\BibliotekaSamolet.csproj", "{B7D1A60B-8B3C-40CA-9FFD-BF36D94AF522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9704D0F-7C1F-4A2D-A784-3C180321CD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9704D0F-7C1F-4A2D-A784-3C180321CD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9704D0F-7C1F-4A2D-A784-3C180321CD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9704D0F-7C1F-4A2D-A784-3C180321CD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D1A60B-8B3C-40CA-9FFD-BF36D94AF522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D1A60B-8B3C-40CA-9FFD-BF36D94AF522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D1A60B-8B3C-40CA-9FFD-BF36D94AF522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D1A60B-8B3C-40CA-9FFD-BF36D94AF522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BB41E8-25B3-4B6D-86E0-373FA8BC0D45}
+	EndGlobalSection
+EndGlobal

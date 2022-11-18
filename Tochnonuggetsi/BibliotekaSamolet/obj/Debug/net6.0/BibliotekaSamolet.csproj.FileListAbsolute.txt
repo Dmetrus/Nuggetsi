@@ -1,0 +1,12 @@
+C:\Users\tuzka\source\repos\BibliotekaSamolet\bin\Debug\net6.0\BibliotekaSamolet.deps.json
+C:\Users\tuzka\source\repos\BibliotekaSamolet\bin\Debug\net6.0\BibliotekaSamolet.dll
+C:\Users\tuzka\source\repos\BibliotekaSamolet\bin\Debug\net6.0\BibliotekaSamolet.pdb
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\BibliotekaSamolet.csproj.AssemblyReference.cache
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\BibliotekaSamolet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\BibliotekaSamolet.AssemblyInfoInputs.cache
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\BibliotekaSamolet.AssemblyInfo.cs
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\BibliotekaSamolet.csproj.CoreCompileInputs.cache
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\BibliotekaSamolet.dll
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\refint\BibliotekaSamolet.dll
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\BibliotekaSamolet.pdb
+C:\Users\tuzka\source\repos\BibliotekaSamolet\obj\Debug\net6.0\ref\BibliotekaSamolet.dll
